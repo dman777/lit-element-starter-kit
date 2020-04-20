@@ -1,6 +1,6 @@
 import { LitElement, html } from 'lit-element';
 
-class AtlasMenu extends LitElement {
+class FooMenu extends LitElement {
 
   /**
    * Implement `render` to define a template for your element.
@@ -21,6 +21,6 @@ class AtlasMenu extends LitElement {
     `;
   }
 }
-customElements.define('atlas-menu', AtlasMenu);
+customElements.define('foo-menu', FooMenu);
 
 
