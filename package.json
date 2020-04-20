@@ -1,0 +1,20 @@
+{
+  "name": "atlas-menu",
+  "version": "0.0.0",
+  "description": "poc",
+  "main": "atlas-menu.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx browser-sync -c bs-config.js start"
+  },
+  "author": "darin.hensley@mediware.com",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "express": "^4.17.1",
+    "express-transform-bare-module-specifiers": "^1.0.3"
+  },
+  "dependencies": {
+    "lit-element": "^2.3.1"
+  }
+}
