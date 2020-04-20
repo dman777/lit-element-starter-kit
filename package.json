@@ -1,8 +1,8 @@
 {
-  "name": "atlas-menu",
+  "name": "foo-menu",
   "version": "0.0.0",
   "description": "poc",
-  "main": "atlas-menu.js",
+  "main": "foo-menu.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "npx browser-sync -c bs-config.js start"
